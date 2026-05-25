@@ -36,3 +36,13 @@ DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinstatic.com
+
+# discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.status
+DOMAIN-SUFFIX,discord.co
